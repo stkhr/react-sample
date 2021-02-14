@@ -44,3 +44,25 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# memo
+## require
+node: v14.4.0
+
+
+## command
+create project
+```bash
+npx create-react-app react-sample --template typescript
+```
+
+install package
+```bash
+yarn (install)
+```
+
+upgrade package with version integrity (but It's not guaranteed to work correctly.)
+```bash
+yarn upgrade
+```
+
